@@ -19,3 +19,7 @@ Commands:
  - leaderboard \<skill> > Shows the top 10 players in the guild in a certain aspect of Skyblock. For example Combat or Farming.
  - rank \<player> > Shows the leaderboard spot for a player in all tracked categories. Sorted from best spots to worst.
  - dungeons \<player> > Shows dungeons information about a player. Catacombs level, times played, best times etc.
+
+Auto Updater:
+ - Script that runs in the background alongside the bot which updates a .json file with the data for every guild member every 10 minutes. 
+   Adds and removes members from the database as they come and go from the guild.
