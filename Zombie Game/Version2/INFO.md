@@ -15,3 +15,10 @@ Some of the things added/changed:
 
 Considered adding a map with clickable buttons to move instead of a dropdown menu, but not sure how to
 do that with AppJar, and the first couple of attempts failed so I stuck with the old drop down menu. Could change later on.
+
+Event chances:
+ - 10% per chance, per weight of finding an item while inspecting area
+ - 25% chance of encountering a Zombie upon moving
+ - Zombies generate with between 10 and 100 health
+ - Zombies always have three random attacks
+ - Zombies have 0 to 3 random weaknesses
