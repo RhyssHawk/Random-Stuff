@@ -1,0 +1,6 @@
+{
+    "name": "MultiChat",
+    "description": "Guild Chat between guilds.",
+    "author": "UnclaimedBloom6",
+    "entry": "index.js"
+  }
