@@ -1,0 +1,6 @@
+{
+    "name": "ChatLog",
+    "description": "Saves all chat messages into a dated file in plain text and timestamps.",
+    "author": "UnclaimedBloom6",
+    "entry": "index.js"
+  }
