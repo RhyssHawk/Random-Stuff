@@ -1,0 +1,166 @@
+{
+    "utility": {
+        "debugMode": false,
+        "playerTracker": {
+            "staffVisible": true,
+            "staffList": [
+                [
+                    "&0&l[&bOwner&0&l] &b",
+                    "Stormsx4"
+                ],
+                [
+                    "&0&l[&bOwner&0&l]&l &b",
+                    "Panda44"
+                ],
+                [
+                    "&0&l[&aSuper-Mod&0&l] &a",
+                    "IDekk"
+                ],
+                [
+                    "&0&l[&aSuper-Mod&0&l] &a",
+                    "Joshhuaaa"
+                ],
+                [
+                    "&0&l[&2Mod&0&l] &2",
+                    "meanwhile"
+                ],
+                [
+                    "&0&l[&2Mod&0&l] &2",
+                    "SenpaiMine"
+                ],
+                [
+                    "&0&l[&2Mod&0&l] &2",
+                    "JustMerc"
+                ],
+                [
+                    "&0&l[&2Mod&0&l] &2",
+                    "AyeJoJo"
+                ],
+                [
+                    "&0&l[&3Trial-Mod&0&l] &3",
+                    "UmJacob"
+                ],
+                [
+                    "&0&l[&3Trial-Mod&0&l] &3",
+                    "PlaceBuilder01"
+                ],
+                [
+                    "&0&l[&3Trial-Mod&0&l] &3",
+                    "xKylex"
+                ],
+                [
+                    "&0&l[&eHelper&0&l] &e",
+                    "MeatCity"
+                ],
+                [
+                    "&0&l[&eHelper&0&l] &e",
+                    "JamieMathematics"
+                ]
+            ],
+            "nearbyVisible": true,
+            "excludeNearby": [
+                "UnclaimedBloom6",
+                "Unclaimedd",
+                "Unclaimeddd",
+                "Unclaimedddd",
+                "oiSam",
+                "Joshhuaaa"
+            ]
+        },
+        "autoCongratz": {
+            "enabled": true
+        },
+        "prefixReplacer": {
+            "unclaimedd": {
+                "color": "&b",
+                "prefix": "Nerd",
+                "name": "&bUnclaimedd"
+            },
+            "spleenidot69": {
+                "color": "&e",
+                "prefix": "BudgetSpleen",
+                "name": "&eSpleenIdot69"
+            },
+            "smhunter": {
+                "color": "&3",
+                "prefix": "Noob",
+                "name": "&3&lSMHunter"
+            },
+            "infinity": {
+                "color": "&4",
+                "prefix": "Ben",
+                "name": "&4&lInfi&f&lnity"
+            },
+            "idekk": {
+                "color": "&a",
+                "prefix": "Super-Nerd",
+                "name": "&2IDekk"
+            },
+            "vjamie": {
+                "color": "&e",
+                "prefix": "MathNerd",
+                "name": "&e&m&lv&f&lJamie"
+            },
+            "justmerc": {
+                "color": "&2",
+                "prefix": "Snake",
+                "name": "&2&lJustMerc"
+            },
+            "overspleen": {
+                "color": "&e",
+                "prefix": "Spleen",
+                "name": "&eOverspleen"
+            },
+            "bacon": {
+                "color": "&d",
+                "prefix": "Pork",
+                "name": "&dBacon"
+            },
+            "unclaimeddd": {
+                "color": "&b",
+                "prefix": "Nerd",
+                "name": "&bUnclaimeddd"
+            },
+            "skyla": {
+                "color": "&4",
+                "prefix": "SmellsBad",
+                "name": "&f&lskyla"
+            }
+        },
+        "advert": {
+            "active":false,
+            "lastAdvert":null,
+            "msgs":[]
+        }
+    },
+    "games": {
+        "blacklist": [
+            "JustMerc",
+            "Trickdecisionz"
+        ],
+        "lottery": {
+            "active": false,
+            "startedAt": null,
+            "lotteryPrice": 1000,
+            "length": 60,
+            "lotteryEntered": {}
+        },
+        "guesser": {
+            "active": false,
+            "startedAt": null,
+            "prize": null,
+            "defaultPrize": 25000,
+            "length": 30,
+            "attemptedPlayers": [],
+            "correctNumber": null
+        },
+        "scramble": {
+            "active": false,
+            "defaultPrize": 100000,
+            "length": 30,
+            "answer": null,
+            "prize": null,
+            "startedAt": null
+        }
+    }
+}
