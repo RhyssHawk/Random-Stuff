@@ -1,0 +1,7 @@
+{
+    "name": "Unclaimed Stuff",
+    "description": "Yeah something",
+    "author": "UnclaimedBloom6",
+    "entry": "index.js",
+"requires":["SettingsManager"]
+  }
