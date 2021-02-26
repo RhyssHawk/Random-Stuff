@@ -1,0 +1,9 @@
+{
+    "botPrefix": "*",
+    "guildName": "Caped",
+    "minimumGEXP": 30000,
+    "promoteGEXP": 50000,
+    "purgeMode": true,
+    "footerText": "Unclaimed is cool lol",
+    "footerImage": "https://crafatar.com/avatars/307005e7f5474f46b258c9a8b84276c4"
+}
