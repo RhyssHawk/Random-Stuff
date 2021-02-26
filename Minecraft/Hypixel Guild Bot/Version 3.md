@@ -16,6 +16,6 @@ Commands:
  - kicks > Shows which members haven't been getting the minimum guild experience and are already the lowest rank in the guild, to be kicked.
  - demotes > Same as kicks, except the player isn't the lowest rank yet so instead they get demoted one rank down, a warning to not be inactive so they don't get kicked.
  - promotes > Shows who has been getting more than x amount of guild experience the last week, showing that they are inactive and should be promoted.
- - leaderboard <skill> > Shows the top 10 players in the guild in a certain aspect of Skyblock. For example Combat or Farming.
- - rank <player> > Shows the leaderboard spot for a player in all tracked categories. Sorted from best spots to worst.
- - dungeons <player> > Shows dungeons information about a player. Catacombs level, times played, best times etc.
+ - leaderboard \<skill> > Shows the top 10 players in the guild in a certain aspect of Skyblock. For example Combat or Farming.
+ - rank \<player> > Shows the leaderboard spot for a player in all tracked categories. Sorted from best spots to worst.
+ - dungeons \<player> > Shows dungeons information about a player. Catacombs level, times played, best times etc.
